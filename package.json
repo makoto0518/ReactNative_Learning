@@ -10,9 +10,9 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native/new-app-screen": "0.81.0",
     "react": "19.1.0",
     "react-native": "0.81.0",
-    "@react-native/new-app-screen": "0.81.0",
     "react-native-safe-area-context": "^5.5.2"
   },
   "devDependencies": {
@@ -26,7 +26,12 @@
     "@react-native/eslint-config": "0.81.0",
     "@react-native/metro-config": "0.81.0",
     "@react-native/typescript-config": "0.81.0",
+    "@types/babel__core": "^7.20.5",
+    "@types/babel__generator": "^7.27.0",
+    "@types/babel__template": "^7.4.4",
+    "@types/babel__traverse": "^7.28.0",
     "@types/jest": "^29.5.13",
+    "@types/json-schema": "^7.0.15",
     "@types/react": "^19.1.0",
     "@types/react-test-renderer": "^19.1.0",
     "eslint": "^8.19.0",

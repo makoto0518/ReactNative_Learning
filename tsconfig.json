@@ -1,4 +1,15 @@
 {
+  "compilerOptions": {
+    "jsx": "react-native",
+    "esModuleInterop": true,
+    "types": [
+      "babel__core",
+      "babel__generator",
+      "babel__template",
+      "babel__traverse",
+      "json-schema"
+    ]
+  },
   "extends": "@react-native/typescript-config",
   "include": ["**/*.ts", "**/*.tsx"],
   "exclude": ["**/node_modules", "**/Pods"]
