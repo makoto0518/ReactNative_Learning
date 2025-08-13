@@ -17,7 +17,7 @@ export default function App() {
       backgroundColor: '#000000' //背景色を黒にする
 
       }}>
-      <Text style={{ color: '#ffffff' , fontSize: 20, fontWeight: 'bold'}}>Hello World</Text>
+      <Text style={{ color: '#ffffff' , fontSize: 20, fontWeight: 'bold'}}>Hello World こんにちは from Makoto</Text>
     </View>
   );
 }
